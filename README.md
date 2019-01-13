@@ -11,8 +11,7 @@ Description:
   
 Screenshot 1
 
-![search repo screenshot](https://user-images.githubusercontent.com/15166401/51087016-c7117a00-1773-11e9-9311-01bb5e4782c8.PNG)
-
+![search repo screenshot](https://user-images.githubusercontent.com/15166401/51087042-0770f800-1774-11e9-9b0d-0c9f072f7f2f.PNG)
   
 ## Development server
 
