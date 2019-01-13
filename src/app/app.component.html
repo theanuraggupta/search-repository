@@ -1,5 +1,6 @@
 <!--The content below is only a placeholder and can be replaced.-->
 <div>
+<h3>Search repositories</h3>
 <input placeholder="Search" name="searchInput" [(ngModel)]="searchString"/>
 <button type="button" (click)="search(searchString)">Search</button>
   <ul *ngFor="let repo of repositories">
