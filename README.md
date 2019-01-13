@@ -2,6 +2,18 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
 
+Description:
+  1. Provided an input with search button 
+  2. Enter the repository search string and click of search
+  3. On click of search, pass the search string and make an http request to the provided url
+          `https://api.github.com/search/repositories?q=`
+  4. Get the response array json of the repositories and pick the values 'Full Name', 'Avatar Url', 'Url', 'Score' and 'Description' from the array objects and bind it to html
+  
+Screenshot 1
+
+![search repo screenshot](https://user-images.githubusercontent.com/15166401/51087016-c7117a00-1773-11e9-9311-01bb5e4782c8.PNG)
+
+  
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
